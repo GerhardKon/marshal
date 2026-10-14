@@ -1,0 +1,13 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Agent temporary and work files
+.manus/
+.manus*
+.work/
+*.tmp
+
+# Build outputs and archive releases
+dist/
+outputs/*.zip
